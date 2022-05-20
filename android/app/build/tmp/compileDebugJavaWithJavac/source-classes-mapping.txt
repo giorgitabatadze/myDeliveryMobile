@@ -1,0 +1,14 @@
+ge/bestline/delivery/mobile/MainApplication.java
+ ge.bestline.delivery.mobile.MainApplication
+ ge.bestline.delivery.mobile.MainApplication$1
+ge/bestline/delivery/mobile/MainActivity.java
+ ge.bestline.delivery.mobile.MainActivity
+ge/bestline/delivery/mobile/ReactNativeFlipper.java
+ ge.bestline.delivery.mobile.ReactNativeFlipper
+ ge.bestline.delivery.mobile.ReactNativeFlipper$1
+ ge.bestline.delivery.mobile.ReactNativeFlipper$2
+ ge.bestline.delivery.mobile.ReactNativeFlipper$2$1
+ge/bestline/delivery/mobile/BuildConfig.java
+ ge.bestline.delivery.mobile.BuildConfig
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
